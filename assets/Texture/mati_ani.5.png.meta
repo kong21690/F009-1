@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2bec3aee-5be0-490a-8632-cac97e809a59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mati_ani.5": {
+      "ver": "1.0.3",
+      "uuid": "9eb9c301-e099-4a1c-9fab-9cf8c86eeb5f",
+      "rawTextureUuid": "2bec3aee-5be0-490a-8632-cac97e809a59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -21.5,
+      "trimX": 144,
+      "trimY": 93,
+      "width": 138,
+      "height": 98,
+      "rawWidth": 429,
+      "rawHeight": 241,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

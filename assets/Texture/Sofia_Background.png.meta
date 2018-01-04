@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9c09acb2-afc0-4e7c-bf8a-d693c7c14002",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Sofia_Background": {
+      "ver": "1.0.3",
+      "uuid": "70ef0744-8ffd-4f0c-999a-2a6c30c8e9d2",
+      "rawTextureUuid": "9c09acb2-afc0-4e7c-bf8a-d693c7c14002",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
